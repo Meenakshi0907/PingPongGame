@@ -184,6 +184,6 @@ public class Paddle : MonoBehaviour
 ```
 
  ## Output:
- 
+ ![image](https://github.com/Meenakshi0907/PingPongGame/blob/main/Screenshot%20(34).png?raw=true)
  ## Result:
 Thus, a ping pong game was developed using C# program in unity .
