@@ -1,9 +1,7 @@
 # PingPongGame
 
 ## Aim:
-
-
-
+To develop a ping pong game using C# program in unity .
 ## Algorithm:
 ### Step 1:
 Create a new scene and save. Then right click hierarchy and click ->create empty (name as Game manager).
