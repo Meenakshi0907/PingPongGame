@@ -62,20 +62,7 @@ public class GameManager : MonoBehaviour
 
     }
 }
-```
- </br>
- </br>
- </br> 
- </br>
- </br>
- </br>
- </br> 
- </br>
- </br> 
- </br>
- </br> 
- </br>
- 
+``` 
 ### Ball:
 ```c#
 using System.Collections;
